@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33241094/README.md)
 # Home Assistant unter Proxmox auf einem Raspberry Pi über WLAN: internes Netzwerk und NAT (nftables)
 
 > **Getestet mit:** Raspberry Pi 4 · Debian 13 (Trixie) · Proxmox VE 9.2.10 · Home Assistant OS 18.3
